@@ -22,7 +22,6 @@
     "redux-thunk",
     "webpack"
   ],
-  "author": "Mohamed Samara (https://github.com/mohamedsamara)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mohamedsamara/mern-ecommerce/issues"
